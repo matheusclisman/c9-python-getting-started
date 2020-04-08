@@ -11,7 +11,7 @@ import json
 
 # You need to update the SUBSCRIPTION_KEY to 
 # they key for your Computer Vision Service
-SUBSCRIPTION_KEY = "28d0e2235a5b4118aa033a6bf007c3fa"
+SUBSCRIPTION_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # You need to update the vision_service_address to the address of
 # your Computer Vision Service
